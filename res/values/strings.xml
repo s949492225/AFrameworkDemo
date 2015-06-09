@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">安卓架构师例子</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_short_communication">短程通信</string>
+    <string name="title_activity_remote_communication">远程通信</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
